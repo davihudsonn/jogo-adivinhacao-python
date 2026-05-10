@@ -17,6 +17,9 @@ Durante as tentativas, o sistema fornece dicas informando se o número secreto �
 - Mensagem de vitória
 - Sistema de Game Over
 
+## 🖥️ Demonstração
+
+Exemplo da execução do jogo de adivinhação desenvolvido em Python:
 <img width="382" height="189" alt="image" src="https://github.com/user-attachments/assets/f548792d-1000-452f-b014-dc0ee102c155" />
 
 
