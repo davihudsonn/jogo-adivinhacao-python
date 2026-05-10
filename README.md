@@ -17,7 +17,7 @@ Durante as tentativas, o sistema fornece dicas informando se o número secreto �
 - Mensagem de vitória
 - Sistema de Game Over
 
-<img width="369" height="153" alt="image" src="https://github.com/user-attachments/assets/c20da498-2165-46f2-8028-e8345872acff" />
+<img width="382" height="189" alt="image" src="https://github.com/user-attachments/assets/f548792d-1000-452f-b014-dc0ee102c155" />
 
 
 ## 🎯 Objetivo
